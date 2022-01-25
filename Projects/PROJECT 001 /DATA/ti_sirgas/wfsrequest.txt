@@ -1,0 +1,1 @@
+http://geoserver.funai.gov.br:80/geoserver/Funai/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=Funai:ti_sirgas&CQL_FILTER=dominio_uniao=%27t%27&outputFormat=SHAPE-ZIP
